@@ -1,15 +1,16 @@
 ---
 title: "Hello World"
 categories:
-  - blog
+  - security
 tags:
-  - Jekyll
-  - Genesis
+  - init
 ---
 
-Reveries in Root, adventures in cybersecurity by Ergodics
+```cpp
+#include <iostream>
 
-```python
-def hello_world():
-  print("Hello, World")
+int main() {
+    std::cout << "Hello, World!";
+    return 0;
+}
 ```

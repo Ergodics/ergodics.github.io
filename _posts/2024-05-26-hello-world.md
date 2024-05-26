@@ -1,4 +1,11 @@
-# Hello, World
+---
+title: "Hello World"
+categories:
+  - blog
+tags:
+  - Jekyll
+  - Genesis
+---
 
 Reveries in Root, adventures in cybersecurity by Ergodics
 
